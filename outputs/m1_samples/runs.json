@@ -1,0 +1,71 @@
+[
+  {
+    "prompt": "A man carrying a bag walking down the train tracks",
+    "source": "COCO caption",
+    "coco_image": "images/000000198510.jpg",
+    "image_id": 198510,
+    "file": "sample_1.png",
+    "seconds": 32.2,
+    "clip_score": 28.27,
+    "steps": 25,
+    "guidance_scale": 7.5,
+    "seed": 42,
+    "scheduler": "DPMSolverMultistep",
+    "size": 512,
+    "clip_score_real_photo": 27.94
+  },
+  {
+    "prompt": "A row of beer bottles and bananas on a wooden counter",
+    "source": "COCO caption",
+    "coco_image": "images/000000079651.jpg",
+    "image_id": 79651,
+    "file": "sample_2.png",
+    "seconds": 28.9,
+    "clip_score": 30.16,
+    "steps": 25,
+    "guidance_scale": 7.5,
+    "seed": 42,
+    "scheduler": "DPMSolverMultistep",
+    "size": 512,
+    "clip_score_real_photo": 29.06
+  },
+  {
+    "prompt": "A large brown dog holding a neon frisbee in his mouth",
+    "source": "COCO caption",
+    "coco_image": "images/000000206831.jpg",
+    "image_id": 206831,
+    "file": "sample_3.png",
+    "seconds": 28.9,
+    "clip_score": 36.9,
+    "steps": 25,
+    "guidance_scale": 7.5,
+    "seed": 42,
+    "scheduler": "DPMSolverMultistep",
+    "size": 512,
+    "clip_score_real_photo": 31.07
+  },
+  {
+    "prompt": "A red vintage bicycle leaning against a brick wall in the rain",
+    "source": "new prompt",
+    "file": "sample_4.png",
+    "seconds": 28.5,
+    "clip_score": 34.48,
+    "steps": 25,
+    "guidance_scale": 7.5,
+    "seed": 42,
+    "scheduler": "DPMSolverMultistep",
+    "size": 512
+  },
+  {
+    "prompt": "A watercolor painting of a lighthouse at sunset",
+    "source": "new prompt",
+    "file": "sample_5.png",
+    "seconds": 27.1,
+    "clip_score": 36.26,
+    "steps": 25,
+    "guidance_scale": 7.5,
+    "seed": 42,
+    "scheduler": "DPMSolverMultistep",
+    "size": 512
+  }
+]

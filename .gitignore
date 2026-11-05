@@ -1,0 +1,14 @@
+# datasets and large artifacts (download / regenerate with the scripts)
+data/raw/
+data/processed/images/
+data/processed/*.npz
+*.zip
+# python / notebooks / OS
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Store
+# LaTeX build files
+*.aux
+*.log
+*.out
