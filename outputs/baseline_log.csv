@@ -1,0 +1,14 @@
+run,prompt_id,prompt,seed,scheduler,steps,w,seconds,clip_score,image_path
+baseline,1,A man carrying a bag walking down the train tracks,42,dpm,25,7.5,3.8,28.42,outputs/baseline/baseline_p01.png
+baseline,2,A row of beer bottles and bananas on a wooden counter,42,dpm,25,7.5,3.9,29.93,outputs/baseline/baseline_p02.png
+baseline,3,A large brown dog holding a neon frisbee in his mouth,42,dpm,25,7.5,3.8,37.02,outputs/baseline/baseline_p03.png
+baseline,4,A red vintage bicycle leaning against a brick wall in the rain,42,dpm,25,7.5,3.8,34.49,outputs/baseline/baseline_p04.png
+baseline,5,A watercolor painting of a lighthouse at sunset,42,dpm,25,7.5,3.8,36.19,outputs/baseline/baseline_p05.png
+baseline,6,A plate of pasta with tomato sauce and basil on a table,42,dpm,25,7.5,3.8,30.85,outputs/baseline/baseline_p06.png
+baseline,7,Two children flying a kite on a beach,42,dpm,25,7.5,3.8,36.78,outputs/baseline/baseline_p07.png
+baseline,8,A black cat sleeping on a laptop keyboard,42,dpm,25,7.5,3.8,33.54,outputs/baseline/baseline_p08.png
+baseline,9,A city bus stopped at a traffic light on a rainy street,42,dpm,25,7.5,3.9,31.52,outputs/baseline/baseline_p09.png
+baseline,10,A snowy mountain village at night with warm lights in the windows,42,dpm,25,7.5,3.9,30.05,outputs/baseline/baseline_p10.png
+w1_no_cfg,1,A man carrying a bag walking down the train tracks,42,dpm,25,1.0,2.5,31.35,outputs/baseline/w1_no_cfg_p01.png
+w1_no_cfg,2,A row of beer bottles and bananas on a wooden counter,42,dpm,25,1.0,2.5,29.12,outputs/baseline/w1_no_cfg_p02.png
+w1_no_cfg,3,A large brown dog holding a neon frisbee in his mouth,42,dpm,25,1.0,2.5,25.17,outputs/baseline/w1_no_cfg_p03.png
