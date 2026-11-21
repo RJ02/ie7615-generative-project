@@ -1,34 +1,34 @@
 run,prompt_id,prompt,seed,scheduler,steps,w,seconds,clip_score,image_path
-cfg_w1,1,A man carrying a bag walking down the train tracks,42,dpm,25,1,2.6,31.35,outputs/tuning/cfg_w1_p01.png
-cfg_w1,2,A row of beer bottles and bananas on a wooden counter,42,dpm,25,1,2.5,29.12,outputs/tuning/cfg_w1_p02.png
-cfg_w1,3,A large brown dog holding a neon frisbee in his mouth,42,dpm,25,1,2.5,25.17,outputs/tuning/cfg_w1_p03.png
-cfg_w1,4,A red vintage bicycle leaning against a brick wall in the rain,42,dpm,25,1,2.5,30.45,outputs/tuning/cfg_w1_p04.png
-cfg_w1,5,A watercolor painting of a lighthouse at sunset,42,dpm,25,1,2.5,37.63,outputs/tuning/cfg_w1_p05.png
-cfg_w1,6,A plate of pasta with tomato sauce and basil on a table,42,dpm,25,1,2.5,29.06,outputs/tuning/cfg_w1_p06.png
-cfg_w1,7,Two children flying a kite on a beach,42,dpm,25,1,2.5,25.73,outputs/tuning/cfg_w1_p07.png
-cfg_w1,8,A black cat sleeping on a laptop keyboard,42,dpm,25,1,2.5,25.16,outputs/tuning/cfg_w1_p08.png
-cfg_w1,9,A city bus stopped at a traffic light on a rainy street,42,dpm,25,1,2.5,30.23,outputs/tuning/cfg_w1_p09.png
-cfg_w1,10,A snowy mountain village at night with warm lights in the windows,42,dpm,25,1,2.5,31.41,outputs/tuning/cfg_w1_p10.png
-cfg_w3,1,A man carrying a bag walking down the train tracks,42,dpm,25,3,4.0,30.74,outputs/tuning/cfg_w3_p01.png
-cfg_w3,2,A row of beer bottles and bananas on a wooden counter,42,dpm,25,3,4.0,33.56,outputs/tuning/cfg_w3_p02.png
-cfg_w3,3,A large brown dog holding a neon frisbee in his mouth,42,dpm,25,3,4.0,31.13,outputs/tuning/cfg_w3_p03.png
-cfg_w3,4,A red vintage bicycle leaning against a brick wall in the rain,42,dpm,25,3,4.0,34.08,outputs/tuning/cfg_w3_p04.png
-cfg_w3,5,A watercolor painting of a lighthouse at sunset,42,dpm,25,3,4.1,37.0,outputs/tuning/cfg_w3_p05.png
-cfg_w3,6,A plate of pasta with tomato sauce and basil on a table,42,dpm,25,3,4.1,32.0,outputs/tuning/cfg_w3_p06.png
-cfg_w3,7,Two children flying a kite on a beach,42,dpm,25,3,4.1,33.12,outputs/tuning/cfg_w3_p07.png
-cfg_w3,8,A black cat sleeping on a laptop keyboard,42,dpm,25,3,4.2,32.73,outputs/tuning/cfg_w3_p08.png
-cfg_w3,9,A city bus stopped at a traffic light on a rainy street,42,dpm,25,3,4.2,33.05,outputs/tuning/cfg_w3_p09.png
-cfg_w3,10,A snowy mountain village at night with warm lights in the windows,42,dpm,25,3,4.2,31.88,outputs/tuning/cfg_w3_p10.png
-cfg_w5,1,A man carrying a bag walking down the train tracks,42,dpm,25,5,4.1,28.97,outputs/tuning/cfg_w5_p01.png
-cfg_w5,2,A row of beer bottles and bananas on a wooden counter,42,dpm,25,5,4.1,31.01,outputs/tuning/cfg_w5_p02.png
-cfg_w5,3,A large brown dog holding a neon frisbee in his mouth,42,dpm,25,5,4.1,35.6,outputs/tuning/cfg_w5_p03.png
-cfg_w5,4,A red vintage bicycle leaning against a brick wall in the rain,42,dpm,25,5,4.1,33.37,outputs/tuning/cfg_w5_p04.png
-cfg_w5,5,A watercolor painting of a lighthouse at sunset,42,dpm,25,5,4.1,37.97,outputs/tuning/cfg_w5_p05.png
-cfg_w5,6,A plate of pasta with tomato sauce and basil on a table,42,dpm,25,5,4.1,30.65,outputs/tuning/cfg_w5_p06.png
-cfg_w5,7,Two children flying a kite on a beach,42,dpm,25,5,4.1,34.77,outputs/tuning/cfg_w5_p07.png
-cfg_w5,8,A black cat sleeping on a laptop keyboard,42,dpm,25,5,4.2,33.54,outputs/tuning/cfg_w5_p08.png
-cfg_w5,9,A city bus stopped at a traffic light on a rainy street,42,dpm,25,5,4.2,32.08,outputs/tuning/cfg_w5_p09.png
-cfg_w5,10,A snowy mountain village at night with warm lights in the windows,42,dpm,25,5,4.3,28.16,outputs/tuning/cfg_w5_p10.png
+cfg_w1,1,A man carrying a bag walking down the train tracks,42,dpm,25,1.0,2.6,31.35,outputs/tuning/cfg_w1_p01.png
+cfg_w1,2,A row of beer bottles and bananas on a wooden counter,42,dpm,25,1.0,2.5,29.12,outputs/tuning/cfg_w1_p02.png
+cfg_w1,3,A large brown dog holding a neon frisbee in his mouth,42,dpm,25,1.0,2.5,25.17,outputs/tuning/cfg_w1_p03.png
+cfg_w1,4,A red vintage bicycle leaning against a brick wall in the rain,42,dpm,25,1.0,2.5,30.45,outputs/tuning/cfg_w1_p04.png
+cfg_w1,5,A watercolor painting of a lighthouse at sunset,42,dpm,25,1.0,2.5,37.63,outputs/tuning/cfg_w1_p05.png
+cfg_w1,6,A plate of pasta with tomato sauce and basil on a table,42,dpm,25,1.0,2.5,29.06,outputs/tuning/cfg_w1_p06.png
+cfg_w1,7,Two children flying a kite on a beach,42,dpm,25,1.0,2.5,25.73,outputs/tuning/cfg_w1_p07.png
+cfg_w1,8,A black cat sleeping on a laptop keyboard,42,dpm,25,1.0,2.5,25.16,outputs/tuning/cfg_w1_p08.png
+cfg_w1,9,A city bus stopped at a traffic light on a rainy street,42,dpm,25,1.0,2.5,30.23,outputs/tuning/cfg_w1_p09.png
+cfg_w1,10,A snowy mountain village at night with warm lights in the windows,42,dpm,25,1.0,2.5,31.41,outputs/tuning/cfg_w1_p10.png
+cfg_w3,1,A man carrying a bag walking down the train tracks,42,dpm,25,3.0,4.0,30.74,outputs/tuning/cfg_w3_p01.png
+cfg_w3,2,A row of beer bottles and bananas on a wooden counter,42,dpm,25,3.0,4.0,33.56,outputs/tuning/cfg_w3_p02.png
+cfg_w3,3,A large brown dog holding a neon frisbee in his mouth,42,dpm,25,3.0,4.0,31.13,outputs/tuning/cfg_w3_p03.png
+cfg_w3,4,A red vintage bicycle leaning against a brick wall in the rain,42,dpm,25,3.0,4.0,34.08,outputs/tuning/cfg_w3_p04.png
+cfg_w3,5,A watercolor painting of a lighthouse at sunset,42,dpm,25,3.0,4.1,37.0,outputs/tuning/cfg_w3_p05.png
+cfg_w3,6,A plate of pasta with tomato sauce and basil on a table,42,dpm,25,3.0,4.1,32.0,outputs/tuning/cfg_w3_p06.png
+cfg_w3,7,Two children flying a kite on a beach,42,dpm,25,3.0,4.1,33.12,outputs/tuning/cfg_w3_p07.png
+cfg_w3,8,A black cat sleeping on a laptop keyboard,42,dpm,25,3.0,4.2,32.73,outputs/tuning/cfg_w3_p08.png
+cfg_w3,9,A city bus stopped at a traffic light on a rainy street,42,dpm,25,3.0,4.2,33.05,outputs/tuning/cfg_w3_p09.png
+cfg_w3,10,A snowy mountain village at night with warm lights in the windows,42,dpm,25,3.0,4.2,31.88,outputs/tuning/cfg_w3_p10.png
+cfg_w5,1,A man carrying a bag walking down the train tracks,42,dpm,25,5.0,4.1,28.97,outputs/tuning/cfg_w5_p01.png
+cfg_w5,2,A row of beer bottles and bananas on a wooden counter,42,dpm,25,5.0,4.1,31.01,outputs/tuning/cfg_w5_p02.png
+cfg_w5,3,A large brown dog holding a neon frisbee in his mouth,42,dpm,25,5.0,4.1,35.6,outputs/tuning/cfg_w5_p03.png
+cfg_w5,4,A red vintage bicycle leaning against a brick wall in the rain,42,dpm,25,5.0,4.1,33.37,outputs/tuning/cfg_w5_p04.png
+cfg_w5,5,A watercolor painting of a lighthouse at sunset,42,dpm,25,5.0,4.1,37.97,outputs/tuning/cfg_w5_p05.png
+cfg_w5,6,A plate of pasta with tomato sauce and basil on a table,42,dpm,25,5.0,4.1,30.65,outputs/tuning/cfg_w5_p06.png
+cfg_w5,7,Two children flying a kite on a beach,42,dpm,25,5.0,4.1,34.77,outputs/tuning/cfg_w5_p07.png
+cfg_w5,8,A black cat sleeping on a laptop keyboard,42,dpm,25,5.0,4.2,33.54,outputs/tuning/cfg_w5_p08.png
+cfg_w5,9,A city bus stopped at a traffic light on a rainy street,42,dpm,25,5.0,4.2,32.08,outputs/tuning/cfg_w5_p09.png
+cfg_w5,10,A snowy mountain village at night with warm lights in the windows,42,dpm,25,5.0,4.3,28.16,outputs/tuning/cfg_w5_p10.png
 cfg_w7.5,1,A man carrying a bag walking down the train tracks,42,dpm,25,7.5,4.3,28.42,outputs/tuning/cfg_w7.5_p01.png
 cfg_w7.5,2,A row of beer bottles and bananas on a wooden counter,42,dpm,25,7.5,4.3,29.93,outputs/tuning/cfg_w7.5_p02.png
 cfg_w7.5,3,A large brown dog holding a neon frisbee in his mouth,42,dpm,25,7.5,4.2,37.02,outputs/tuning/cfg_w7.5_p03.png
@@ -39,26 +39,26 @@ cfg_w7.5,7,Two children flying a kite on a beach,42,dpm,25,7.5,4.2,36.78,outputs
 cfg_w7.5,8,A black cat sleeping on a laptop keyboard,42,dpm,25,7.5,4.2,33.54,outputs/tuning/cfg_w7.5_p08.png
 cfg_w7.5,9,A city bus stopped at a traffic light on a rainy street,42,dpm,25,7.5,4.2,31.52,outputs/tuning/cfg_w7.5_p09.png
 cfg_w7.5,10,A snowy mountain village at night with warm lights in the windows,42,dpm,25,7.5,4.2,30.05,outputs/tuning/cfg_w7.5_p10.png
-cfg_w10,1,A man carrying a bag walking down the train tracks,42,dpm,25,10,4.3,29.51,outputs/tuning/cfg_w10_p01.png
-cfg_w10,2,A row of beer bottles and bananas on a wooden counter,42,dpm,25,10,4.3,29.21,outputs/tuning/cfg_w10_p02.png
-cfg_w10,3,A large brown dog holding a neon frisbee in his mouth,42,dpm,25,10,4.3,39.4,outputs/tuning/cfg_w10_p03.png
-cfg_w10,4,A red vintage bicycle leaning against a brick wall in the rain,42,dpm,25,10,4.3,35.7,outputs/tuning/cfg_w10_p04.png
-cfg_w10,5,A watercolor painting of a lighthouse at sunset,42,dpm,25,10,4.3,36.24,outputs/tuning/cfg_w10_p05.png
-cfg_w10,6,A plate of pasta with tomato sauce and basil on a table,42,dpm,25,10,4.3,30.65,outputs/tuning/cfg_w10_p06.png
-cfg_w10,7,Two children flying a kite on a beach,42,dpm,25,10,4.3,35.42,outputs/tuning/cfg_w10_p07.png
-cfg_w10,8,A black cat sleeping on a laptop keyboard,42,dpm,25,10,4.2,34.36,outputs/tuning/cfg_w10_p08.png
-cfg_w10,9,A city bus stopped at a traffic light on a rainy street,42,dpm,25,10,4.2,31.18,outputs/tuning/cfg_w10_p09.png
-cfg_w10,10,A snowy mountain village at night with warm lights in the windows,42,dpm,25,10,4.2,30.96,outputs/tuning/cfg_w10_p10.png
-cfg_w15,1,A man carrying a bag walking down the train tracks,42,dpm,25,15,4.2,29.52,outputs/tuning/cfg_w15_p01.png
-cfg_w15,2,A row of beer bottles and bananas on a wooden counter,42,dpm,25,15,4.3,30.98,outputs/tuning/cfg_w15_p02.png
-cfg_w15,3,A large brown dog holding a neon frisbee in his mouth,42,dpm,25,15,4.3,38.73,outputs/tuning/cfg_w15_p03.png
-cfg_w15,4,A red vintage bicycle leaning against a brick wall in the rain,42,dpm,25,15,4.3,34.31,outputs/tuning/cfg_w15_p04.png
-cfg_w15,5,A watercolor painting of a lighthouse at sunset,42,dpm,25,15,4.3,36.5,outputs/tuning/cfg_w15_p05.png
-cfg_w15,6,A plate of pasta with tomato sauce and basil on a table,42,dpm,25,15,4.3,32.24,outputs/tuning/cfg_w15_p06.png
-cfg_w15,7,Two children flying a kite on a beach,42,dpm,25,15,4.3,35.8,outputs/tuning/cfg_w15_p07.png
-cfg_w15,8,A black cat sleeping on a laptop keyboard,42,dpm,25,15,4.3,32.93,outputs/tuning/cfg_w15_p08.png
-cfg_w15,9,A city bus stopped at a traffic light on a rainy street,42,dpm,25,15,4.3,30.09,outputs/tuning/cfg_w15_p09.png
-cfg_w15,10,A snowy mountain village at night with warm lights in the windows,42,dpm,25,15,4.3,34.71,outputs/tuning/cfg_w15_p10.png
+cfg_w10,1,A man carrying a bag walking down the train tracks,42,dpm,25,10.0,4.3,29.51,outputs/tuning/cfg_w10_p01.png
+cfg_w10,2,A row of beer bottles and bananas on a wooden counter,42,dpm,25,10.0,4.3,29.21,outputs/tuning/cfg_w10_p02.png
+cfg_w10,3,A large brown dog holding a neon frisbee in his mouth,42,dpm,25,10.0,4.3,39.4,outputs/tuning/cfg_w10_p03.png
+cfg_w10,4,A red vintage bicycle leaning against a brick wall in the rain,42,dpm,25,10.0,4.3,35.7,outputs/tuning/cfg_w10_p04.png
+cfg_w10,5,A watercolor painting of a lighthouse at sunset,42,dpm,25,10.0,4.3,36.24,outputs/tuning/cfg_w10_p05.png
+cfg_w10,6,A plate of pasta with tomato sauce and basil on a table,42,dpm,25,10.0,4.3,30.65,outputs/tuning/cfg_w10_p06.png
+cfg_w10,7,Two children flying a kite on a beach,42,dpm,25,10.0,4.3,35.42,outputs/tuning/cfg_w10_p07.png
+cfg_w10,8,A black cat sleeping on a laptop keyboard,42,dpm,25,10.0,4.2,34.36,outputs/tuning/cfg_w10_p08.png
+cfg_w10,9,A city bus stopped at a traffic light on a rainy street,42,dpm,25,10.0,4.2,31.18,outputs/tuning/cfg_w10_p09.png
+cfg_w10,10,A snowy mountain village at night with warm lights in the windows,42,dpm,25,10.0,4.2,30.96,outputs/tuning/cfg_w10_p10.png
+cfg_w15,1,A man carrying a bag walking down the train tracks,42,dpm,25,15.0,4.2,29.52,outputs/tuning/cfg_w15_p01.png
+cfg_w15,2,A row of beer bottles and bananas on a wooden counter,42,dpm,25,15.0,4.3,30.98,outputs/tuning/cfg_w15_p02.png
+cfg_w15,3,A large brown dog holding a neon frisbee in his mouth,42,dpm,25,15.0,4.3,38.73,outputs/tuning/cfg_w15_p03.png
+cfg_w15,4,A red vintage bicycle leaning against a brick wall in the rain,42,dpm,25,15.0,4.3,34.31,outputs/tuning/cfg_w15_p04.png
+cfg_w15,5,A watercolor painting of a lighthouse at sunset,42,dpm,25,15.0,4.3,36.5,outputs/tuning/cfg_w15_p05.png
+cfg_w15,6,A plate of pasta with tomato sauce and basil on a table,42,dpm,25,15.0,4.3,32.24,outputs/tuning/cfg_w15_p06.png
+cfg_w15,7,Two children flying a kite on a beach,42,dpm,25,15.0,4.3,35.8,outputs/tuning/cfg_w15_p07.png
+cfg_w15,8,A black cat sleeping on a laptop keyboard,42,dpm,25,15.0,4.3,32.93,outputs/tuning/cfg_w15_p08.png
+cfg_w15,9,A city bus stopped at a traffic light on a rainy street,42,dpm,25,15.0,4.3,30.09,outputs/tuning/cfg_w15_p09.png
+cfg_w15,10,A snowy mountain village at night with warm lights in the windows,42,dpm,25,15.0,4.3,34.71,outputs/tuning/cfg_w15_p10.png
 dpm_10steps,1,A man carrying a bag walking down the train tracks,42,dpm,10,7.5,1.9,28.57,outputs/tuning/dpm_10steps_p01.png
 dpm_10steps,2,A row of beer bottles and bananas on a wooden counter,42,dpm,10,7.5,1.8,31.46,outputs/tuning/dpm_10steps_p02.png
 dpm_10steps,3,A large brown dog holding a neon frisbee in his mouth,42,dpm,10,7.5,1.8,38.46,outputs/tuning/dpm_10steps_p03.png
@@ -159,3 +159,93 @@ final,7,Two children flying a kite on a beach,42,dpm,25,7.5,4.3,36.78,outputs/fi
 final,8,A black cat sleeping on a laptop keyboard,42,dpm,25,7.5,4.3,33.54,outputs/final/final_p08.png
 final,9,A city bus stopped at a traffic light on a rainy street,42,dpm,25,7.5,4.3,31.52,outputs/final/final_p09.png
 final,10,A snowy mountain village at night with warm lights in the windows,42,dpm,25,7.5,4.3,30.05,outputs/final/final_p10.png
+dpm_25steps_w7.5_seed0,1,A man carrying a bag walking down the train tracks,0,dpm,25,7.5,5.0,29.0,outputs/seeds/dpm_25steps_w7.5_seed0_p01.png
+dpm_25steps_w7.5_seed0,2,A row of beer bottles and bananas on a wooden counter,0,dpm,25,7.5,3.9,27.52,outputs/seeds/dpm_25steps_w7.5_seed0_p02.png
+dpm_25steps_w7.5_seed0,3,A large brown dog holding a neon frisbee in his mouth,0,dpm,25,7.5,3.9,36.08,outputs/seeds/dpm_25steps_w7.5_seed0_p03.png
+dpm_25steps_w7.5_seed0,4,A red vintage bicycle leaning against a brick wall in the rain,0,dpm,25,7.5,3.9,36.26,outputs/seeds/dpm_25steps_w7.5_seed0_p04.png
+dpm_25steps_w7.5_seed0,5,A watercolor painting of a lighthouse at sunset,0,dpm,25,7.5,3.9,37.77,outputs/seeds/dpm_25steps_w7.5_seed0_p05.png
+dpm_25steps_w7.5_seed0,6,A plate of pasta with tomato sauce and basil on a table,0,dpm,25,7.5,3.9,33.27,outputs/seeds/dpm_25steps_w7.5_seed0_p06.png
+dpm_25steps_w7.5_seed0,7,Two children flying a kite on a beach,0,dpm,25,7.5,3.9,35.44,outputs/seeds/dpm_25steps_w7.5_seed0_p07.png
+dpm_25steps_w7.5_seed0,8,A black cat sleeping on a laptop keyboard,0,dpm,25,7.5,4.0,31.83,outputs/seeds/dpm_25steps_w7.5_seed0_p08.png
+dpm_25steps_w7.5_seed0,9,A city bus stopped at a traffic light on a rainy street,0,dpm,25,7.5,4.0,29.8,outputs/seeds/dpm_25steps_w7.5_seed0_p09.png
+dpm_25steps_w7.5_seed0,10,A snowy mountain village at night with warm lights in the windows,0,dpm,25,7.5,4.1,31.86,outputs/seeds/dpm_25steps_w7.5_seed0_p10.png
+dpm_25steps_w7.5_seed1234,1,A man carrying a bag walking down the train tracks,1234,dpm,25,7.5,4.1,30.77,outputs/seeds/dpm_25steps_w7.5_seed1234_p01.png
+dpm_25steps_w7.5_seed1234,2,A row of beer bottles and bananas on a wooden counter,1234,dpm,25,7.5,4.1,29.9,outputs/seeds/dpm_25steps_w7.5_seed1234_p02.png
+dpm_25steps_w7.5_seed1234,3,A large brown dog holding a neon frisbee in his mouth,1234,dpm,25,7.5,4.2,30.01,outputs/seeds/dpm_25steps_w7.5_seed1234_p03.png
+dpm_25steps_w7.5_seed1234,4,A red vintage bicycle leaning against a brick wall in the rain,1234,dpm,25,7.5,4.2,31.01,outputs/seeds/dpm_25steps_w7.5_seed1234_p04.png
+dpm_25steps_w7.5_seed1234,5,A watercolor painting of a lighthouse at sunset,1234,dpm,25,7.5,4.3,37.74,outputs/seeds/dpm_25steps_w7.5_seed1234_p05.png
+dpm_25steps_w7.5_seed1234,6,A plate of pasta with tomato sauce and basil on a table,1234,dpm,25,7.5,4.3,31.58,outputs/seeds/dpm_25steps_w7.5_seed1234_p06.png
+dpm_25steps_w7.5_seed1234,7,Two children flying a kite on a beach,1234,dpm,25,7.5,4.5,35.59,outputs/seeds/dpm_25steps_w7.5_seed1234_p07.png
+dpm_25steps_w7.5_seed1234,8,A black cat sleeping on a laptop keyboard,1234,dpm,25,7.5,4.5,31.48,outputs/seeds/dpm_25steps_w7.5_seed1234_p08.png
+dpm_25steps_w7.5_seed1234,9,A city bus stopped at a traffic light on a rainy street,1234,dpm,25,7.5,4.7,30.26,outputs/seeds/dpm_25steps_w7.5_seed1234_p09.png
+dpm_25steps_w7.5_seed1234,10,A snowy mountain village at night with warm lights in the windows,1234,dpm,25,7.5,4.8,33.71,outputs/seeds/dpm_25steps_w7.5_seed1234_p10.png
+dpm_25steps_w10_seed0,1,A man carrying a bag walking down the train tracks,0,dpm,25,10.0,4.8,28.96,outputs/seeds/dpm_25steps_w10_seed0_p01.png
+dpm_25steps_w10_seed0,2,A row of beer bottles and bananas on a wooden counter,0,dpm,25,10.0,4.9,27.96,outputs/seeds/dpm_25steps_w10_seed0_p02.png
+dpm_25steps_w10_seed0,3,A large brown dog holding a neon frisbee in his mouth,0,dpm,25,10.0,5.0,36.12,outputs/seeds/dpm_25steps_w10_seed0_p03.png
+dpm_25steps_w10_seed0,4,A red vintage bicycle leaning against a brick wall in the rain,0,dpm,25,10.0,4.8,37.86,outputs/seeds/dpm_25steps_w10_seed0_p04.png
+dpm_25steps_w10_seed0,5,A watercolor painting of a lighthouse at sunset,0,dpm,25,10.0,4.7,37.79,outputs/seeds/dpm_25steps_w10_seed0_p05.png
+dpm_25steps_w10_seed0,6,A plate of pasta with tomato sauce and basil on a table,0,dpm,25,10.0,4.6,34.17,outputs/seeds/dpm_25steps_w10_seed0_p06.png
+dpm_25steps_w10_seed0,7,Two children flying a kite on a beach,0,dpm,25,10.0,4.5,34.06,outputs/seeds/dpm_25steps_w10_seed0_p07.png
+dpm_25steps_w10_seed0,8,A black cat sleeping on a laptop keyboard,0,dpm,25,10.0,4.4,32.88,outputs/seeds/dpm_25steps_w10_seed0_p08.png
+dpm_25steps_w10_seed0,9,A city bus stopped at a traffic light on a rainy street,0,dpm,25,10.0,4.4,30.7,outputs/seeds/dpm_25steps_w10_seed0_p09.png
+dpm_25steps_w10_seed0,10,A snowy mountain village at night with warm lights in the windows,0,dpm,25,10.0,4.4,31.99,outputs/seeds/dpm_25steps_w10_seed0_p10.png
+dpm_25steps_w10_seed1234,1,A man carrying a bag walking down the train tracks,1234,dpm,25,10.0,4.4,30.25,outputs/seeds/dpm_25steps_w10_seed1234_p01.png
+dpm_25steps_w10_seed1234,2,A row of beer bottles and bananas on a wooden counter,1234,dpm,25,10.0,4.4,28.27,outputs/seeds/dpm_25steps_w10_seed1234_p02.png
+dpm_25steps_w10_seed1234,3,A large brown dog holding a neon frisbee in his mouth,1234,dpm,25,10.0,4.4,29.53,outputs/seeds/dpm_25steps_w10_seed1234_p03.png
+dpm_25steps_w10_seed1234,4,A red vintage bicycle leaning against a brick wall in the rain,1234,dpm,25,10.0,4.5,30.96,outputs/seeds/dpm_25steps_w10_seed1234_p04.png
+dpm_25steps_w10_seed1234,5,A watercolor painting of a lighthouse at sunset,1234,dpm,25,10.0,4.6,36.88,outputs/seeds/dpm_25steps_w10_seed1234_p05.png
+dpm_25steps_w10_seed1234,6,A plate of pasta with tomato sauce and basil on a table,1234,dpm,25,10.0,4.7,30.23,outputs/seeds/dpm_25steps_w10_seed1234_p06.png
+dpm_25steps_w10_seed1234,7,Two children flying a kite on a beach,1234,dpm,25,10.0,4.7,35.13,outputs/seeds/dpm_25steps_w10_seed1234_p07.png
+dpm_25steps_w10_seed1234,8,A black cat sleeping on a laptop keyboard,1234,dpm,25,10.0,4.7,29.37,outputs/seeds/dpm_25steps_w10_seed1234_p08.png
+dpm_25steps_w10_seed1234,9,A city bus stopped at a traffic light on a rainy street,1234,dpm,25,10.0,4.7,28.39,outputs/seeds/dpm_25steps_w10_seed1234_p09.png
+dpm_25steps_w10_seed1234,10,A snowy mountain village at night with warm lights in the windows,1234,dpm,25,10.0,4.7,34.39,outputs/seeds/dpm_25steps_w10_seed1234_p10.png
+dpm_10steps_w7.5_seed0,1,A man carrying a bag walking down the train tracks,0,dpm,10,7.5,2.0,28.83,outputs/seeds/dpm_10steps_w7.5_seed0_p01.png
+dpm_10steps_w7.5_seed0,2,A row of beer bottles and bananas on a wooden counter,0,dpm,10,7.5,2.0,30.97,outputs/seeds/dpm_10steps_w7.5_seed0_p02.png
+dpm_10steps_w7.5_seed0,3,A large brown dog holding a neon frisbee in his mouth,0,dpm,10,7.5,2.0,35.59,outputs/seeds/dpm_10steps_w7.5_seed0_p03.png
+dpm_10steps_w7.5_seed0,4,A red vintage bicycle leaning against a brick wall in the rain,0,dpm,10,7.5,2.0,35.85,outputs/seeds/dpm_10steps_w7.5_seed0_p04.png
+dpm_10steps_w7.5_seed0,5,A watercolor painting of a lighthouse at sunset,0,dpm,10,7.5,2.0,37.03,outputs/seeds/dpm_10steps_w7.5_seed0_p05.png
+dpm_10steps_w7.5_seed0,6,A plate of pasta with tomato sauce and basil on a table,0,dpm,10,7.5,2.0,32.54,outputs/seeds/dpm_10steps_w7.5_seed0_p06.png
+dpm_10steps_w7.5_seed0,7,Two children flying a kite on a beach,0,dpm,10,7.5,2.0,34.64,outputs/seeds/dpm_10steps_w7.5_seed0_p07.png
+dpm_10steps_w7.5_seed0,8,A black cat sleeping on a laptop keyboard,0,dpm,10,7.5,1.9,33.23,outputs/seeds/dpm_10steps_w7.5_seed0_p08.png
+dpm_10steps_w7.5_seed0,9,A city bus stopped at a traffic light on a rainy street,0,dpm,10,7.5,1.9,30.82,outputs/seeds/dpm_10steps_w7.5_seed0_p09.png
+dpm_10steps_w7.5_seed0,10,A snowy mountain village at night with warm lights in the windows,0,dpm,10,7.5,1.9,32.97,outputs/seeds/dpm_10steps_w7.5_seed0_p10.png
+dpm_10steps_w7.5_seed1234,1,A man carrying a bag walking down the train tracks,1234,dpm,10,7.5,1.9,30.75,outputs/seeds/dpm_10steps_w7.5_seed1234_p01.png
+dpm_10steps_w7.5_seed1234,2,A row of beer bottles and bananas on a wooden counter,1234,dpm,10,7.5,1.9,32.36,outputs/seeds/dpm_10steps_w7.5_seed1234_p02.png
+dpm_10steps_w7.5_seed1234,3,A large brown dog holding a neon frisbee in his mouth,1234,dpm,10,7.5,1.9,31.06,outputs/seeds/dpm_10steps_w7.5_seed1234_p03.png
+dpm_10steps_w7.5_seed1234,4,A red vintage bicycle leaning against a brick wall in the rain,1234,dpm,10,7.5,1.9,30.63,outputs/seeds/dpm_10steps_w7.5_seed1234_p04.png
+dpm_10steps_w7.5_seed1234,5,A watercolor painting of a lighthouse at sunset,1234,dpm,10,7.5,1.9,36.77,outputs/seeds/dpm_10steps_w7.5_seed1234_p05.png
+dpm_10steps_w7.5_seed1234,6,A plate of pasta with tomato sauce and basil on a table,1234,dpm,10,7.5,1.9,31.77,outputs/seeds/dpm_10steps_w7.5_seed1234_p06.png
+dpm_10steps_w7.5_seed1234,7,Two children flying a kite on a beach,1234,dpm,10,7.5,1.9,35.48,outputs/seeds/dpm_10steps_w7.5_seed1234_p07.png
+dpm_10steps_w7.5_seed1234,8,A black cat sleeping on a laptop keyboard,1234,dpm,10,7.5,1.9,31.39,outputs/seeds/dpm_10steps_w7.5_seed1234_p08.png
+dpm_10steps_w7.5_seed1234,9,A city bus stopped at a traffic light on a rainy street,1234,dpm,10,7.5,2.0,23.94,outputs/seeds/dpm_10steps_w7.5_seed1234_p09.png
+dpm_10steps_w7.5_seed1234,10,A snowy mountain village at night with warm lights in the windows,1234,dpm,10,7.5,2.0,33.96,outputs/seeds/dpm_10steps_w7.5_seed1234_p10.png
+euler_25steps_w7.5_seed0,1,A man carrying a bag walking down the train tracks,0,euler,25,7.5,4.6,28.64,outputs/seeds/euler_25steps_w7.5_seed0_p01.png
+euler_25steps_w7.5_seed0,2,A row of beer bottles and bananas on a wooden counter,0,euler,25,7.5,4.6,29.06,outputs/seeds/euler_25steps_w7.5_seed0_p02.png
+euler_25steps_w7.5_seed0,3,A large brown dog holding a neon frisbee in his mouth,0,euler,25,7.5,4.6,36.19,outputs/seeds/euler_25steps_w7.5_seed0_p03.png
+euler_25steps_w7.5_seed0,4,A red vintage bicycle leaning against a brick wall in the rain,0,euler,25,7.5,4.6,35.78,outputs/seeds/euler_25steps_w7.5_seed0_p04.png
+euler_25steps_w7.5_seed0,5,A watercolor painting of a lighthouse at sunset,0,euler,25,7.5,4.6,37.69,outputs/seeds/euler_25steps_w7.5_seed0_p05.png
+euler_25steps_w7.5_seed0,6,A plate of pasta with tomato sauce and basil on a table,0,euler,25,7.5,4.6,32.56,outputs/seeds/euler_25steps_w7.5_seed0_p06.png
+euler_25steps_w7.5_seed0,7,Two children flying a kite on a beach,0,euler,25,7.5,4.6,34.24,outputs/seeds/euler_25steps_w7.5_seed0_p07.png
+euler_25steps_w7.5_seed0,8,A black cat sleeping on a laptop keyboard,0,euler,25,7.5,4.6,31.94,outputs/seeds/euler_25steps_w7.5_seed0_p08.png
+euler_25steps_w7.5_seed0,9,A city bus stopped at a traffic light on a rainy street,0,euler,25,7.5,4.6,29.84,outputs/seeds/euler_25steps_w7.5_seed0_p09.png
+euler_25steps_w7.5_seed0,10,A snowy mountain village at night with warm lights in the windows,0,euler,25,7.5,4.6,32.04,outputs/seeds/euler_25steps_w7.5_seed0_p10.png
+euler_25steps_w7.5_seed1234,1,A man carrying a bag walking down the train tracks,1234,euler,25,7.5,4.6,31.1,outputs/seeds/euler_25steps_w7.5_seed1234_p01.png
+euler_25steps_w7.5_seed1234,2,A row of beer bottles and bananas on a wooden counter,1234,euler,25,7.5,4.5,29.62,outputs/seeds/euler_25steps_w7.5_seed1234_p02.png
+euler_25steps_w7.5_seed1234,3,A large brown dog holding a neon frisbee in his mouth,1234,euler,25,7.5,4.5,29.97,outputs/seeds/euler_25steps_w7.5_seed1234_p03.png
+euler_25steps_w7.5_seed1234,4,A red vintage bicycle leaning against a brick wall in the rain,1234,euler,25,7.5,4.6,30.29,outputs/seeds/euler_25steps_w7.5_seed1234_p04.png
+euler_25steps_w7.5_seed1234,5,A watercolor painting of a lighthouse at sunset,1234,euler,25,7.5,4.5,37.72,outputs/seeds/euler_25steps_w7.5_seed1234_p05.png
+euler_25steps_w7.5_seed1234,6,A plate of pasta with tomato sauce and basil on a table,1234,euler,25,7.5,4.5,32.46,outputs/seeds/euler_25steps_w7.5_seed1234_p06.png
+euler_25steps_w7.5_seed1234,7,Two children flying a kite on a beach,1234,euler,25,7.5,4.5,36.61,outputs/seeds/euler_25steps_w7.5_seed1234_p07.png
+euler_25steps_w7.5_seed1234,8,A black cat sleeping on a laptop keyboard,1234,euler,25,7.5,4.5,30.98,outputs/seeds/euler_25steps_w7.5_seed1234_p08.png
+euler_25steps_w7.5_seed1234,9,A city bus stopped at a traffic light on a rainy street,1234,euler,25,7.5,4.6,30.98,outputs/seeds/euler_25steps_w7.5_seed1234_p09.png
+euler_25steps_w7.5_seed1234,10,A snowy mountain village at night with warm lights in the windows,1234,euler,25,7.5,4.6,33.72,outputs/seeds/euler_25steps_w7.5_seed1234_p10.png
+dpm_karras_25steps,1,A man carrying a bag walking down the train tracks,42,dpm,25,7.5,4.3,28.51,outputs/tuning/dpm_karras_25steps_p01.png
+dpm_karras_25steps,2,A row of beer bottles and bananas on a wooden counter,42,dpm,25,7.5,4.3,30.34,outputs/tuning/dpm_karras_25steps_p02.png
+dpm_karras_25steps,3,A large brown dog holding a neon frisbee in his mouth,42,dpm,25,7.5,4.6,36.43,outputs/tuning/dpm_karras_25steps_p03.png
+dpm_karras_25steps,4,A red vintage bicycle leaning against a brick wall in the rain,42,dpm,25,7.5,4.6,34.8,outputs/tuning/dpm_karras_25steps_p04.png
+dpm_karras_25steps,5,A watercolor painting of a lighthouse at sunset,42,dpm,25,7.5,4.7,37.35,outputs/tuning/dpm_karras_25steps_p05.png
+dpm_karras_25steps,6,A plate of pasta with tomato sauce and basil on a table,42,dpm,25,7.5,5.4,30.92,outputs/tuning/dpm_karras_25steps_p06.png
+dpm_karras_25steps,7,Two children flying a kite on a beach,42,dpm,25,7.5,5.0,35.49,outputs/tuning/dpm_karras_25steps_p07.png
+dpm_karras_25steps,8,A black cat sleeping on a laptop keyboard,42,dpm,25,7.5,6.1,33.7,outputs/tuning/dpm_karras_25steps_p08.png
+dpm_karras_25steps,9,A city bus stopped at a traffic light on a rainy street,42,dpm,25,7.5,5.0,32.13,outputs/tuning/dpm_karras_25steps_p09.png
+dpm_karras_25steps,10,A snowy mountain village at night with warm lights in the windows,42,dpm,25,7.5,4.8,30.46,outputs/tuning/dpm_karras_25steps_p10.png
