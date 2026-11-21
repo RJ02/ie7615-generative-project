@@ -65,3 +65,34 @@ python src/sample_runs.py                # -> outputs/m1_samples/ (5 images, gri
 | 4 | Final 6–8 page report, gallery, presentation |
 
 Data: COCO 2017 (images under Flickr terms, annotations CC BY 4.0). No COCO images are stored in this repository.
+
+## Milestone 2: Text-Conditioned Generation and Tuning
+
+*Notebook:* ⁠ Milestone2.ipynb ⁠ | *Helpers:* ⁠ generate.py ⁠ | *Summary:* ⁠ report/milestone2_summary.pdf ⁠
+
+### What was done
+•⁠  ⁠Integrated the CLIP ViT-L/14 text encoder with Stable Diffusion v1.5 via manually computed ⁠ prompt_embeds ⁠ (1 x 77 x 768); verified against the built-in pipeline (pixel diff 0.0)
+•⁠  ⁠BERT-base negative control: dimension-compatible but produces noise, since the UNet was trained on CLIP's embedding space
+•⁠  ⁠Baseline generation on 10 prompts (DPM-Solver++, 25 steps, w=7.5, seed 42)
+•⁠  ⁠Classifier-free guidance sweep: w in {1, 3, 5, 7.5, 10, 15}
+•⁠  ⁠Sampler and steps sweep: {DPM-Solver++, DDIM, Euler} x {10, 25, 50}, plus Karras sigma schedule
+•⁠  ⁠Seed robustness: top 4 settings repeated with seeds 0, 42, 1234
+•⁠  ⁠Evaluation: CLIP score (ViT-B/32) and seconds per image
+
+### Results (mean CLIP score over 3 seeds)
+| Setting | Mean CLIP | Seed std | s / image |
+| --- | --- | --- | --- |
+| Euler, 25 steps, w=7.5 | 32.71 | 0.33 | 4.5 |
+| DPM, 10 steps, w=7.5 | 32.70 | 0.77 | 1.9 |
+| DPM, 25 steps, w=7.5 (final) | 32.66 | 0.39 | 4.3 |
+| DPM, 25 steps, w=10 | 32.62 | 1.11 | 4.5 |
+
+No guidance (w=1) drops CLIP to 29.53. Karras sigmas scored 33.01 vs 32.88 for the default schedule (seed 42). Differences between top settings (0.09) are smaller than seed variation, so we kept DPM-Solver++, 25 steps, w=7.5. Main failure mode: compositional prompts (dropped objects, wrong spatial relations).
+
+### Outputs
+•⁠  ⁠⁠ outputs/milestone2_log.csv ⁠: all 263 generations (prompt, seed, sampler, steps, w, time, CLIP score)
+•⁠  ⁠⁠ outputs/baseline/ ⁠: baseline images, CFG vs no-CFG comparison, BERT control
+•⁠  ⁠⁠ outputs/tuning/ ⁠: sweep images, Karras run, ⁠ cfg_sweep_grid.png ⁠, ⁠ scheduler_grid.png ⁠
+•⁠  ⁠⁠ outputs/seeds/ ⁠: seed robustness runs
+•⁠  ⁠⁠ outputs/final/ ⁠: final 10 images and ⁠ final_grid.png ⁠
+
